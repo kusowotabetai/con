@@ -1,0 +1,28 @@
+.gms{
+    
+    background-color: khaki;
+    text-align: center;
+    margin: 200px 300px 0 300px;
+    padding: 30px;
+}
+.btn button {
+    border: none;
+    margin: 20px ;
+    background-color: lawngreen;
+    padding: 5px;
+}
+#cb{
+   text-align: right;
+  
+}
+#cb button{
+    background-color:#ffff;
+
+
+}
+#pa{
+    color: rgb(5, 151, 102);
+}
+body{
+    background-color: cornsilk;
+}
